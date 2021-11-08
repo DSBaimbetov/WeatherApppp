@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="nav_header_title">Погода</string>
+    <string name="empty_field">Это поле не может быть пустым</string>
+    <string name="ok">OK</string>
+    <string name="new_city">Новый город</string>
+    <string name="no_info_available">Информация о погоде в этом городе недоступна</string>
+    <string name="did_you_misspell">Вы неправильно написали город?</string>
+    <string name="home">Назад</string>
+    <string name="delete">Удалить</string>
+    <string name="city_name">Название города</string>
+    <string name="add_city">Добавить город</string>
+    <string name="temp">%1$s°C</string>
+    <string name="wind"> %1$s m/s</string>
+    <string name="max_temp">Макс: %1$s°C</string>
+    <string name="min_temp">Мин: %1$s°C</string>
+    <string name="humidity">Влажность: %1$s%%</string>
+    <string name="pressure">Давление: %1$s hPa</string>
+</resources>
